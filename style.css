@@ -1,0 +1,28 @@
+body { text-align:centre;
+    background-image: url("https://th.bing.com/th/id/R.6e9c2cd3d86a65d3d786b94a188032ba?rik=WVaqiIYA9t4NEA&riu=http%3a%2f%2fart.ncoll-central.com%2fimages%2fkurama1.png&ehk=GAo4c%2bTIumacgOiS2A6OzXpPO8z4VLXSMSko6cWFExI%3d&risl=&pid=ImgRaw&r=0");
+}
+.obito{    list-style: none;
+    position: absolute;
+    z-index: 10;
+    top: 10px;
+    right: 30px;
+    font-family: 'Caramel', cursive;
+    cursor: pointer;
+}
+
+.jon{float: left;
+    color: orange;
+    font-size: 35px;
+    padding: 7px;
+
+}
+.jon:hover{
+    background-color: skyblue;
+}
+
+
+img:hover  {
+    /*give transform property to scale to 0.9*/ 
+    transform: scale(0.9);
+}
+img:
